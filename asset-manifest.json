@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Priyanshu-27/Netflix-clone/static/css/main.2b537f50.css",
+    "main.js": "/Priyanshu-27/Netflix-clone/static/js/main.21f34638.js",
+    "static/js/787.75d3dc61.chunk.js": "/Priyanshu-27/Netflix-clone/static/js/787.75d3dc61.chunk.js",
+    "index.html": "/Priyanshu-27/Netflix-clone/index.html",
+    "main.2b537f50.css.map": "/Priyanshu-27/Netflix-clone/static/css/main.2b537f50.css.map",
+    "main.21f34638.js.map": "/Priyanshu-27/Netflix-clone/static/js/main.21f34638.js.map",
+    "787.75d3dc61.chunk.js.map": "/Priyanshu-27/Netflix-clone/static/js/787.75d3dc61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b537f50.css",
+    "static/js/main.21f34638.js"
+  ]
+}
